@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-
+# 👩 About Me
 I’m currently a Master student at [Southeast University](https://www.seu.edu.cn/), where I’m fortunate to be supervised by [Prof. Min-Ling Zhang](https://palm.seu.edu.cn/zhangml/). I'm also advised by [Dr. Yi-Gao](https://gaoyi439.github.io/).
 
 My research interest includes multi-label learning, weakly-supervised learning. I am always open to potential collaborations or research opportunities. Feel free to reach out to me:
