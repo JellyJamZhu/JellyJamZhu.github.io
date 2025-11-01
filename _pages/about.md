@@ -37,10 +37,6 @@ My research interest includes multi-label learning, weakly-supervised learning. 
 - *2023.09 - 2026.06 (now)*, Master Student, Computer Technology, Southeast University.
 - *2019.09 - 2023.06*, Undergraduate Student, Information Management and Information Systems (Excellence Program in Data Science and Business Analytics), Central South University. 
 
-{% # 💬 Invited Talks %}
-{% - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  %}
-{% - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) %}
-
 # 💻 Internships
 - *2025.05 - 2025.08*, Machine Learning Engineer (Recommendation Systems), [Metuan](https://www.meituan.com/), China.
 - *2022.12 - 2023.02*, AI research scientist, [Bosch](https://www.bosch.com.cn/), China.
