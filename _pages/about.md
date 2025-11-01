@@ -24,31 +24,23 @@ My research interest includes multi-label learning, weakly-supervised learning. 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+- **J.-Y. Zhu**, Y. Gao*, M. Xu, M.-L. Zhang. [ComRank: Ranking Loss for Multi-Label Complementary Label Learning](https://openreview.net/pdf?id=uVjuiPP4aP)，In: Advances in Neural Information Processing Systems 38 (NeurIPS’25), in press. [**Code**](https://github.com/JellyJamZhu/ComRank) [**OpenReview**](https://openreview.net/forum?id=uVjuiPP4aP)
 
-[ComRank: Ranking Loss for Multi-Label Complementary Label Learning](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Jing-Yi Zhu**, Yi Gao, Miao Xu, Min-Ling Zhang
-
-[**OpenReview**](https://openreview.net/forum?id=uVjuiPP4aP) [**Code**](https://github.com/JellyJamZhu/ComRank) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- A ranking loss framework for multi-label complementary label learning, which encourages complementary labels to be ranked lower than non-complementary ones.
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- Y. Gao, **J.-Y. Zhu**, M. Xu, M.-L. Zhang*. [Multi-label learning with multiple complementary labels](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11016060). IEEE Transactions on Pattern Analysis and Machine Intelligence, 2025, 47(9): 8013-8024. [**Code**](https://github.com/gaoyi439/CTL)
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.10* Education Foundation Scholarship, Southeast University. 
+- *2025.09* Outstanding Individual in Academic Innovation, Southeast University. 
+- *2023.10* First-Class Academic Scholarship, Southeast University. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.09 - 2026.06 (now)*, Master Student, Southeast University. 
+- *2019.09 - 2023.06*, Undergraduate Student, Soochow University. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+{% # 💬 Invited Talks %}
+{% - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  %}
+{% - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) %}
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2025.05 - 2025.08*, Machine Learning Engineer (Recommendation Systems), [Metuan](https://www.meituan.com/), China.
+- *2022.12 - 2023.02*, AI research scientist, [Bosch](https://www.bosch.com.cn/), China.
