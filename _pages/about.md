@@ -34,8 +34,8 @@ My research interest includes multi-label learning, weakly-supervised learning. 
 - *2023.10* First-Class Academic Scholarship, Southeast University. 
 
 # 📖 Educations
-- *2023.09 - 2026.06 (now)*, Master Student, Southeast University. 
-- *2019.09 - 2023.06*, Undergraduate Student, Soochow University. 
+- *2023.09 - 2026.06 (now)*, Master Student, Computer Technology, Southeast University.
+- *2019.09 - 2023.06*, Undergraduate Student, Information Management and Information Systems (Excellence Program in Data Science and Business Analytics), Central South University. 
 
 {% # 💬 Invited Talks %}
 {% - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  %}
