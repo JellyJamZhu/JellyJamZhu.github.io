@@ -19,8 +19,7 @@ redirect_from:
 # 👩 About Me
 I’m currently a final-year Master student at [Southeast University](https://www.seu.edu.cn/), where I’m fortunate to be supervised by [Prof. Min-Ling Zhang](https://palm.seu.edu.cn/zhangml/). I'm also advised by [Dr. Yi Gao](https://gaoyi439.github.io/).
 
-My research interest includes multi-label learning, weakly-supervised learning. I am always open to potential collaborations or research opportunities. Feel free to reach out to me:
-[SchoolEmail](zhujingyi@edu.seu.com) /[PersonalEmail](zhujingyi0610@163.com) / [Github](https://github.com/JellyJamZhu) / [Wechat](../images/wechat.jpg) / [Linkedin](https://www.linkedin.com/in/jingyi-zhu-3a789a239)
+My research interest includes multi-label learning, weakly-supervised learning. I am always open to potential collaborations or research opportunities. I'm currently on the job hunt for a machine learning engineer position. Feel free to reach out to me: [Wechat](../images/wechat.jpg).
 
 # 📝 Publications 
 
